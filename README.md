@@ -5,7 +5,7 @@
   <title>Quick Lock Auto | 24/7 Auto Locksmith</title>
   <meta name="description" content="Quick Lock Auto is a 24/7 auto locksmith serving all of Broward County, FL. Fast car lockouts, key replacement, key fob programming, and ignition services." />
   <style>
-    body { margin: 0; font-family: Arial, sans-serif; background: #f7f7f7; color: #222; }
+    body { margin: 0; font-family: Arial, sans-serif; background: #000; color: #fff; }
     header { background: #111; color: #fff; padding: 20px; text-align: center; }
     header h1 { margin: 0; font-size: 2rem; }
     header p { margin: 8px 0 16px; }
@@ -14,9 +14,9 @@
     section { padding: 30px 20px; max-width: 900px; margin: auto; }
     h2 { margin-top: 0; }
     .services, .pricing { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; }
-    .card { background: #fff; padding: 18px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+    .card { background: #111; padding: 18px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.6); color:#fff; }
     footer { background: #111; color: #fff; text-align: center; padding: 16px; font-size: 0.9rem; }
-    .note { font-size: 0.9rem; color: #555; }
+    .note { font-size: 0.9rem; color: #ccc; }
       .reviews { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; }
     .stars { color: #ffb703; font-size: 1.1rem; }
   </style>
@@ -57,11 +57,17 @@
     <a href="sms:15555555555">💬 Text Now</a>
   </div>
 </header><section>
+  <img src="hero.jpg" alt="Locksmith driving to service call" style="width:100%; border-radius:12px; margin-top:20px;">
+</section><section>
   <h2>About Us</h2>
   <p>
     Quick Lock Auto is a professional auto locksmith proudly serving <strong>all of Broward County, Florida</strong>. Whether you’re locked out of your car, lost your keys, or dealing with ignition trouble, we provide fast, damage-free solutions—anytime, day or night.
   </p>
+  <div style="margin-top:20px;">
+    <img src="technician.jpg" alt="Professional locksmith with key" style="width:100%; border-radius:12px;">
+  </div>
 </section><section>
+  <img src="van.jpg" alt="Quick Lock Auto service van" style="width:100%; border-radius:12px; margin-bottom:20px;">
   <h2>Our Services</h2>
   <div class="services">
     <div class="card">

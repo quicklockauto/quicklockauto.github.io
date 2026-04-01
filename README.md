@@ -126,7 +126,7 @@
       <h3>Our Services</h3>
 
       <div class="service">🚗 Car Lockouts</div>
-      <div class="service">🔑 Key Duplication</div>
+      <div class="service">🔑 Key Replacement</div>
       <div class="service">📡 Key Programming</div>
     </div>
 

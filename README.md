@@ -128,8 +128,6 @@
       <div class="service">🚗 Car Lockouts</div>
       <div class="service">🔑 Key Duplication</div>
       <div class="service">📡 Key Programming</div>
-      <div class="service">🚪 House Lockouts</div>
-      <div class="service">🔐 Lock Changes & Rekey</div>
     </div>
 
     <div class="footer">

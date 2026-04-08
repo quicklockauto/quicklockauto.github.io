@@ -8,6 +8,7 @@
 <style>
 body {
     margin: 0;
+    overflow-x: hidden; /* ✅ FIX 1 */
     font-family: Arial, sans-serif;
     background: linear-gradient(#000000, #0b1a2f);
     color: white;
@@ -16,6 +17,8 @@ body {
 
 .container {
     padding: 20px;
+    max-width: 100%; /* ✅ FIX 2 */
+    box-sizing: border-box; /* ✅ FIX 2 */
 }
 
 h1 {
